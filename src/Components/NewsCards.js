@@ -21,7 +21,7 @@ const NewsCards = ({ articles, activeArticle }) => {
     {
       color: "#283593",
       title: "News by Sources",
-      info: "CNN, Wired, BBC News, Time, IGN, ABC News, Buzzfeed",
+      info: "CNN, Wired, BBC News, Time, ABC News, Buzzfeed",
       text: "Show the news from CNN",
     },
   ];
